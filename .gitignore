@@ -1,0 +1,50 @@
+# .gitignore for Instagram Bot Project
+
+# Instagram session and credentials
+.env
+.env.*
+!*.env.sample
+activity_log.json
+
+# Logs
+logs/
+*.log
+
+# Data files
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Content (optional - remove if you want to track content)
+content/*.jpg
+content/*.jpeg
+content/*.png
+content/*.mp4
+
+# Keep readme in content folder
+!content/README.md
+
+# Backup files
+*.bak
+*.backup
