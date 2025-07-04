@@ -1,6 +1,6 @@
-# YesPlease Social Media Bot
+# Social Media Bot
 
-A sophisticated social media automation bot designed to help grow your "Yes Please" brand on **Instagram** and **X (formerly Twitter)** while staying within platform guidelines and avoiding bans.
+A sophisticated social media automation bot designed to help grow your brand on **Instagram** and **X (formerly Twitter)** while staying within platform guidelines and avoiding bans.
 
 ## Features
 
