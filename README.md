@@ -41,7 +41,7 @@ A sophisticated social media automation bot designed to help grow your brand on 
 
 1. **Clone/Download the project**
    ```bash
-   cd YesPlease_SocialMedia
+   cd social_media_bot
    ```
 
 2. **Install Python dependencies**
@@ -87,8 +87,8 @@ MAX_REPOSTS_PER_HOUR=20
 
 # Content
 CONTENT_FOLDER=content
-HASHTAGS=#yesplease #socialmedia #content
-X_HASHTAGS=#YesPlease #SocialMedia #Content #X #Business
+HASHTAGS=#socialmedia #content
+X_HASHTAGS=#SocialMedia #Content #X #Business
 
 # Safety
 ENABLE_SAFETY_DELAYS=true
