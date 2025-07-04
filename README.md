@@ -1,6 +1,6 @@
 # Social Media Bot - *may contain bugs* - I did what I could haha.
 
-A sophisticated social media automation bot designed to help grow your brand on **Instagram** and **X (formerly Twitter)** while staying within platform guidelines and avoiding bans.
+A social media automation bot designed to help grow your brand on **Instagram** and **X (formerly Twitter)** while staying within platform guidelines and avoiding bans. *Run python bot_manager.py
 
 ## Features
 
